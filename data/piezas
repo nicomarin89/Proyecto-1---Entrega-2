@@ -1,0 +1,10 @@
+ESCULTURA, EXHIBICION, Saltarin, 2018, Bogota, Carlos, false, true, 1000000, piedra, griego, 100, 80, 60, false, 68, Cuidado con las esquinas puntiagudas, false
+VIDEO, EXHIBICION, Bellas Artes, 2022, Bogota, Carlos, false, true, 500000, 30, 25, 1, terror, 1080p, false
+VIDEO, EXHIBICION, Locura, 2019, Cali, Daniel, true, true, 250000, 45, 50, 1, comedia, 1080p, false
+PINTURA, BODEGA, Cielo, 2022, Bogota, Carlos, false, true, 400000, 30, 30, pincel, Expresionismo, false
+PINTURA, BODEGA, Reunion, 2021, Cali, Daniel, true, true, 300000, 45, 60, pincel, Barroco, false
+FOTOGRAFIA, HISTORIAL, Paisaje, 2022, Bogota, Carlos, false, true, 200000, Cubismo, 1920x1080, false
+IMPRESION, HISTORIAL, Contrato Antiguo, 2020, Cali, Daniel, true, true, 100000, 20, 30, diplomacia antigua, 1920x1080, false
+VIDEO, EXHIBICION, Entrevista, 2023, Bogota, Carlos, false, true, 50000, 45, 30, 0, Futbol, 1080p, false
+FOTOGRAFIA, BODEGA, Bodas, 2018, Cali, Jaime, true, true, 20000, matrimonios, 1920x1080, false
+IMPRESION, BODEGA, Idols, 2020, Bogota, Carlos, false, true, 350000, 60, 60, K-pop, 1920x1080, true, 02/03/2024, 06/04/2024
